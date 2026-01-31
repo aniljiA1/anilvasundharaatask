@@ -104,11 +104,19 @@ my-assignment/
 ## ▶️ How to Run Locally
 
 npm install
+npm install lucide-react
+npm install tailwindcss
+
+
+---
+
+## ▶️ How to Run Locally
+
 npm run dev
 
 ---
 
-Open browser at:
+# Run as Localhost
 
 Link: http://localhost:5173
 
